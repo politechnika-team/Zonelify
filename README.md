@@ -1,2 +1,2 @@
-# Connectify
-Connectify is a social media app that allows users to connect and interact with people from all over the world. With Connectify, you can create a personalized profile, join or create groups based on your interests, and engage in real-time conversations with other members of the community. Whether you're looking to make new friends, share your passions, or stay up-to-date on the latest trends, Connectify has everything you need to stay connected and engaged.
+# Zonelify
+Zonelify is a social media app that allows users to connect and interact with people from all over the world. With Connectify, you can create a personalized profile, join or create groups based on your interests, and engage in real-time conversations with other members of the community. Whether you're looking to make new friends, share your passions, or stay up-to-date on the latest trends, Connectify has everything you need to stay connected and engaged.
